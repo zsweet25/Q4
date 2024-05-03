@@ -7,3 +7,41 @@ week 2: maybe 25%
 4/29/2024: 26%
 4/30/24: 31%
 5/2/24: still 31%
+5/3/24: 3055
+
+
+
+Ok so basically so far I learned about like the really basic stuff in Java and its taking me a while bc its pretty confusing. Right now Im learning about methods and classes, and how to connect them within the main method and constructor classes. Right now Im working with parameters and public/private variables. I also learned about the basic syntax, like prints, defining variable, and the math that goes along with it. Heres a fun little thing that im working on right now
+
+public class Store {
+  // instance fields
+  String productType;
+  double price;
+    
+  // constructor method
+  public Store(String product, double initialPrice) {
+    productType = product;
+    price = initialPrice;
+  }
+    
+  // increase price method
+  public void increasePrice(double priceToAdd){
+    double newPrice = price + priceToAdd;
+    price = newPrice;
+  }
+    
+  // get price with tax method
+  public double getPriceWithTax(){
+    double tax = 0.08;
+    double totalPrice = price + price * tax;
+    return totalPrice;
+  }
+
+}
+public class Main {
+  public static void main(String[] args) {
+    Store lemonadeStand = new Store("Lemonade", 3.75);
+    double lemonadePrice = lemonadeStand.getPriceWithTax();
+    System.out.println(lemonadePrice);
+  }
+}
