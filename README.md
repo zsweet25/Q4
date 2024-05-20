@@ -19,6 +19,8 @@ Functions also take parameters and we learned different things we can do with th
 We learned stuff like if else statements, switch statements, return, and the different math operaters that we originally learned.
 Im learning stuff with arrays and lists right now, java is pretty different then python so its a little bit of a change
 
+Learned about ArrayLists today. Its an import you have to do to be able to make an array flexable. You call it by doing ArrayList<xxxxx> = new ArrayList<xxx>();
+
 
 
 
