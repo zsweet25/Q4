@@ -3,7 +3,6 @@ Quarter 4 Project
 I'm learning Java
 5/20/2024: 50%
 I worked on my slides today and yesterday
-I PRESENTED TODAY AND IT WAS RLLY BAD
 last class i was a junior and had to see the capstones
 Today I worked on my menu, and added some stuff so I dont have an F in the class
 
