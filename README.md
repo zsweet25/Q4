@@ -5,6 +5,7 @@ I'm learning Java
 I worked on my slides today and yesterday
 I PRESENTED TODAY AND IT WAS RLLY BAD
 last class i was a junior and had to see the capstones
+Today I worked on my menu, and added some stuff so I dont have an F in the class
 
 What I've learned about so far:
 The different types of variables and calling them. There is double (numbers with decimals), int (no decimals), String (text), and boolean (True or False). If you are assigning something to a varible, you HAVE to call one of these before hand.
