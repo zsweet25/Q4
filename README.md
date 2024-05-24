@@ -20,6 +20,7 @@ We learned stuff like if else statements, switch statements, return, and the dif
 Im learning stuff with arrays and lists right now, java is pretty different then python so its a little bit of a change
 
 Learned about ArrayLists today. Its an import you have to do to be able to make an array flexable. You call it by doing ArrayList<xxxxx> = new ArrayList<xxx>();
+Learned more about Arraylists, I learned how to add and remove them. I learned how to change them and little commands you can do with them like indexOf
 
 
 
