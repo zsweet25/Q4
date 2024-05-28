@@ -21,7 +21,7 @@ Im learning stuff with arrays and lists right now, java is pretty different then
 
 Learned about ArrayLists today. Its an import you have to do to be able to make an array flexable. You call it by doing ArrayList<xxxxx> = new ArrayList<xxx>();
 Learned more about Arraylists, I learned how to add and remove them. I learned how to change them and little commands you can do with them like indexOf
-
+I learned about for and while loops today, it works a little different from python. Then i learned how to mix in the loops with arrays and ArrayList
 
 
 
