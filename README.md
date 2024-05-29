@@ -1,7 +1,7 @@
 # Q4
 Quarter 4 Project
 I'm learning Java
-5/24/2024: 55%
+5/29/2024: 60%
 I worked on my slides today and yesterday
 last class i was a junior and had to see the capstones
 Today I worked on my menu, and added some stuff so I dont have an F in the class
@@ -22,6 +22,7 @@ Im learning stuff with arrays and lists right now, java is pretty different then
 Learned about ArrayLists today. Its an import you have to do to be able to make an array flexable. You call it by doing ArrayList<xxxxx> = new ArrayList<xxx>();
 Learned more about Arraylists, I learned how to add and remove them. I learned how to change them and little commands you can do with them like indexOf
 I learned about for and while loops today, it works a little different from python. Then i learned how to mix in the loops with arrays and ArrayList
+Worked more with while loops and regular loops, and learned some different syntax
 
 
 
