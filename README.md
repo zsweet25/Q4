@@ -23,6 +23,8 @@ Learned about ArrayLists today. Its an import you have to do to be able to make 
 Learned more about Arraylists, I learned how to add and remove them. I learned how to change them and little commands you can do with them like indexOf
 I learned about for and while loops today, it works a little different from python. Then i learned how to mix in the loops with arrays and ArrayList
 Worked more with while loops and regular loops, and learned some different syntax
+I learned about string methods yesterday and finished the lesson today
+I learned about access and scope today. Moreso about private and public classes and why we use them
 
 
 
