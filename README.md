@@ -1,7 +1,7 @@
 # Q4
 Quarter 4 Project
 I'm learning Java
-5/29/2024: 60%
+5/30/2024: 65%
 I worked on my slides today and yesterday
 last class i was a junior and had to see the capstones
 Today I worked on my menu, and added some stuff so I dont have an F in the class
