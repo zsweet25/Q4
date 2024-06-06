@@ -26,6 +26,7 @@ Worked more with while loops and regular loops, and learned some different synta
 I learned about string methods yesterday and finished the lesson today
 I learned about access and scope today. Moreso about private and public classes and why we use them
 I worked on my slides the whole time and made some sample code to go along with it
+Did my presentation 
 
 
 
